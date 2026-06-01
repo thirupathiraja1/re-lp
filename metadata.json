@@ -1,0 +1,6 @@
+{
+  "name": "Stratechgy Landing & CRM",
+  "description": "High-Performance Agency Landing Page and Secure Lead Management CRM with credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
